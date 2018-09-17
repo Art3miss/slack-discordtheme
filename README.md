@@ -1,7 +1,6 @@
 *How to get a Discord Theme for Slack (WINDOWS)*
 
-1. Click on the button that says "Switch sidebar theme" under this message. _Ignore these:_ #2f3136,#2F3136,#2F3136,#ffffff,#5a5e69,#cccccc,#43b581,#f04747
-
+1. Copy-paste these into Slack: `#2f3136,#2F3136,#2F3136,#ffffff,#5a5e69,#cccccc,#43b581,#f04747`, then click on the button that says "Switch sidebar theme" under your message with the colors. 
 2. Press "Windows Key + R".
 
 3. Copy-paste this into the Run window that opens: `%homepath%\AppData\Local\slack\`, then press "Enter".
